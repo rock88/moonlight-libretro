@@ -286,6 +286,8 @@
 		3661D308246B0C820060EE24 /* VDPAUVideoDecoder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VDPAUVideoDecoder.cpp; sourceTree = "<group>"; };
 		3661D309246B0C820060EE24 /* VDPAUVideoDecoder.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VDPAUVideoDecoder.hpp; sourceTree = "<group>"; };
 		3661D30B246B1C680060EE24 /* build_ffmpeg_lakka_switch.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = build_ffmpeg_lakka_switch.sh; sourceTree = "<group>"; };
+		36680700246C68520076B6B1 /* build_libvdpau-tegra_lakka_switch.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "build_libvdpau-tegra_lakka_switch.sh"; sourceTree = "<group>"; };
+		36680701246C6BCC0076B6B1 /* build_libXv_lakka_switch.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = build_libXv_lakka_switch.sh; sourceTree = "<group>"; };
 		367CD958245DE25F00A95738 /* StreamWindow.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = StreamWindow.cpp; sourceTree = "<group>"; };
 		367CD959245DE25F00A95738 /* StreamWindow.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = StreamWindow.hpp; sourceTree = "<group>"; };
 		36A0C0352461DBA30083289C /* AddHostButton.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AddHostButton.cpp; sourceTree = "<group>"; };
@@ -687,6 +689,8 @@
 				3602C3C0245DC7E300368900 /* Makefile */,
 				36A0C03E2461FFF10083289C /* build_opus_lakka_switch.sh */,
 				3661D30B246B1C680060EE24 /* build_ffmpeg_lakka_switch.sh */,
+				36680700246C68520076B6B1 /* build_libvdpau-tegra_lakka_switch.sh */,
+				36680701246C6BCC0076B6B1 /* build_libXv_lakka_switch.sh */,
 				3652F006245C2918001FABF3 /* libgamestream */,
 				36B406932459F41E005BD903 /* src */,
 				36DFDCF62459F80600FC51CE /* third_party */,
